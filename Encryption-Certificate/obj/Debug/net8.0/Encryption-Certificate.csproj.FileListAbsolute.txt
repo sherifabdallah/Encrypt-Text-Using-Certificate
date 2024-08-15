@@ -1,0 +1,14 @@
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\bin\Debug\net8.0\Encryption-Certificate.exe
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\bin\Debug\net8.0\Encryption-Certificate.deps.json
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\bin\Debug\net8.0\Encryption-Certificate.runtimeconfig.json
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\bin\Debug\net8.0\Encryption-Certificate.dll
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\bin\Debug\net8.0\Encryption-Certificate.pdb
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\obj\Debug\net8.0\Encryption-Certificate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\obj\Debug\net8.0\Encryption-Certificate.AssemblyInfoInputs.cache
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\obj\Debug\net8.0\Encryption-Certificate.AssemblyInfo.cs
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\obj\Debug\net8.0\Encryption-Certificate.csproj.CoreCompileInputs.cache
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\obj\Debug\net8.0\Encryption-Certificate.dll
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\obj\Debug\net8.0\refint\Encryption-Certificate.dll
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\obj\Debug\net8.0\Encryption-Certificate.pdb
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\obj\Debug\net8.0\Encryption-Certificate.genruntimeconfig.cache
+C:\Users\Sherif-Abdullah\Desktop\Encryption-Certificate\Encryption-Certificate\obj\Debug\net8.0\ref\Encryption-Certificate.dll
