@@ -41,4 +41,3 @@ Get-ChildItem -Path Cert:\LocalMachine\My
 
 This command will list the certificates in the `LocalMachine\My` store.
 
-Let me know if you need any further assistance!
